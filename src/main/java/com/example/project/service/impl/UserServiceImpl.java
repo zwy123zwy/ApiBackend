@@ -24,7 +24,6 @@ import static com.example.project.constant.UserConstant.USER_LOGIN_STATE;
 /**
  * 用户服务实现类
  *
- * @author yupi
  */
 @Service
 @Slf4j

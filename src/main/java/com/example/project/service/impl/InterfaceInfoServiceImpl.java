@@ -13,8 +13,7 @@ import org.springframework.stereotype.Service;
 
 /**
 * @author Zhangwenye
-* @description 针对表【interface_info(接口信息)】的数据库操作Service实现
-* @createDate 2023-07-30 15:52:48
+*
 */
 @Service
 public class InterfaceInfoServiceImpl extends ServiceImpl<InterfaceInfoMapper, InterfaceInfo>

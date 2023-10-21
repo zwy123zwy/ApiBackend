@@ -34,13 +34,13 @@ import java.util.List;
 @Slf4j
 @Component
 public class CustomGlobalFilter implements GlobalFilter,Ordered{
-    @DubboReference
+    @DubboReference(check = false)
     private InnerUserService innerUserService;
 
-    @DubboReference
+    @DubboReference(check = false)
     private InnerInterfaceInfoService innerInterfaceInfoService;
 
-    @DubboReference
+    @DubboReference(check = false)
     private InnerUserInterfaceInfoService innerUserInterfaceInfoService;
 //    访问控制的白名单设置
     private static final List<String> IP_WHITE_LIST = Arrays.asList("127.0.0.1");
