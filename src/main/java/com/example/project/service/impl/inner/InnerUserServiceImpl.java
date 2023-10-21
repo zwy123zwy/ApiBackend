@@ -13,8 +13,6 @@ import javax.annotation.Resource;
 
 /**
  * 内部用户服务实现类
- *
- *
  */
 @DubboService
 public class InnerUserServiceImpl implements InnerUserService {

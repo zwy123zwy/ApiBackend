@@ -6,7 +6,6 @@ import com.example.yuapicommon.model.entity.Post;
 
 /**
  * 帖子视图
- *
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

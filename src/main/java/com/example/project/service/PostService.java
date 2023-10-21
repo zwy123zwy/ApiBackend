@@ -3,9 +3,6 @@ package com.example.project.service;
 import com.baomidou.mybatisplus.extension.service.IService;
 import com.example.project.model.entity.Post;
 
-/**
- *
- */
 public interface PostService extends IService<Post> {
 
     /**

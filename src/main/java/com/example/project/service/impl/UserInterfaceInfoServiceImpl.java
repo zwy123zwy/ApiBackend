@@ -10,10 +10,6 @@ import com.example.yuapicommon.model.entity.UserInterfaceInfo;
 import com.example.project.service.UserInterfaceInfoService;
 import org.springframework.stereotype.Service;
 
-/**
-* @author Zhangwenye
-*
-*/
 @Service
 public class UserInterfaceInfoServiceImpl extends ServiceImpl<UserInterfaceInfoMapper, UserInterfaceInfo>
     implements UserInterfaceInfoService {

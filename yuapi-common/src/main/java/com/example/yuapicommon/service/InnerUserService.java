@@ -5,7 +5,6 @@ import com.example.yuapicommon.model.entity.User;
 
 /**
  * 内部用户服务
- *
  */
 public interface InnerUserService {
 

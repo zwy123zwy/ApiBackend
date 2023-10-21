@@ -20,11 +20,6 @@ import javax.servlet.http.HttpServletRequest;
 import static com.example.project.constant.UserConstant.ADMIN_ROLE;
 import static com.example.project.constant.UserConstant.USER_LOGIN_STATE;
 
-
-/**
- * 用户服务实现类
- *
- */
 @Service
 @Slf4j
 public class UserServiceImpl extends ServiceImpl<UserMapper, User>

@@ -6,7 +6,6 @@ spring:
 #      ???????????
       default-filters:
         - AddResponseHeader=source, yupi
-#      ??????
       routes:
         - id: api_route
           uri: http://localhost:8123

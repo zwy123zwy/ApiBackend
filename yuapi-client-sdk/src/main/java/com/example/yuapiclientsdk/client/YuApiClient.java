@@ -15,7 +15,6 @@ import static com.example.yuapiclientsdk.utils.SignUtils.genSign;
 
 /**
  * 调用第三方接口的客户端
- *
  */
 public class YuApiClient {
 

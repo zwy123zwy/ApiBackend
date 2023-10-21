@@ -11,8 +11,6 @@ import java.util.Date;
 
 /**
  * 创建请求
- *请求参数对象
- * @TableName product
  */
 @Data
 public class InterfaceInfoAddRequest implements Serializable {

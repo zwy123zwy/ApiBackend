@@ -27,8 +27,6 @@ import java.util.List;
 
 /**
  * 帖子接口
- *
-
  */
 @RestController
 @RequestMapping("/post")

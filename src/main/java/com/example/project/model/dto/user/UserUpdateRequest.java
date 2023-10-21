@@ -7,8 +7,6 @@ import java.io.Serializable;
 
 /**
  * 用户更新请求
- *
- *
  */
 @Data
 public class UserUpdateRequest implements Serializable {

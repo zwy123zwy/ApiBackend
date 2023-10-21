@@ -6,7 +6,6 @@ import java.util.stream.Collectors;
 
 /**
  * 帖子性别枚举
- *
  */
 public enum PostGenderEnum {
 

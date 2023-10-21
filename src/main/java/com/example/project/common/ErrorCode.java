@@ -2,8 +2,6 @@ package com.example.project.common;
 
 /**
  * 错误码
- *
-
  */
 public enum ErrorCode {
 

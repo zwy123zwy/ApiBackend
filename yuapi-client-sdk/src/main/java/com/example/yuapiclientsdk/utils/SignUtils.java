@@ -5,7 +5,6 @@ import cn.hutool.crypto.digest.Digester;
 
 /**
  * 签名工具
- *
  */
 public class SignUtils {
     /**

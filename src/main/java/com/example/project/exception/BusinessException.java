@@ -2,10 +2,7 @@ package com.example.project.exception;
 
 import com.example.project.common.ErrorCode;
 
-/**
- * 自定义异常类
- *
- */
+
 public class BusinessException extends RuntimeException {
 
     private final int code;

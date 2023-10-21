@@ -2,7 +2,6 @@ package com.example.yuapicommon.service;
 
 /**
  * 内部用户接口信息服务
- *
  */
 public interface InnerUserInterfaceInfoService {
 

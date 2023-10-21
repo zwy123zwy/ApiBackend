@@ -20,8 +20,6 @@ import java.util.concurrent.CompletableFuture;
 
 /**
  * 示例服务
- *
-
  */
 public interface DemoService {
 

@@ -4,7 +4,6 @@ import com.example.yuapicommon.model.entity.InterfaceInfo;
 
 /**
  * 内部接口信息服务
- *
  */
 public interface InnerInterfaceInfoService {
 

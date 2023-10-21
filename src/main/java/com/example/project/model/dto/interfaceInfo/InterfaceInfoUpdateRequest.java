@@ -10,7 +10,6 @@ import java.io.Serializable;
 
 /**
  * 更新请求
- *
  */
 @Data
 public class InterfaceInfoUpdateRequest implements Serializable {

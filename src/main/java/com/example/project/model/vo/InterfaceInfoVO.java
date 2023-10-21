@@ -6,7 +6,6 @@ import lombok.EqualsAndHashCode;
 
 /**
  * 接口信息封装视图
- *
  */
 @EqualsAndHashCode(callSuper = true)
 @Data
